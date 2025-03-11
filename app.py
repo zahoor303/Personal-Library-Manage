@@ -411,3 +411,11 @@ elif choice == "Update Book":
         st.success("Book updated successfully!")
 
 manager.close()
+
+
+# Footer
+st.markdown("""
+    <div class='footer'>
+        <p>Made by Zahoor Fatima 💖</p>
+    </div>
+""", unsafe_allow_html=True)
