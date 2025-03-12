@@ -27,3 +27,25 @@ SQLite3 (Database management)
 Streamlit (Web UI framework)
 
 CSS (Custom styling)
+
+
+
+ DEscription for the code which work on terminal 
+
+ Personal Library Manager
+
+Description
+
+Personal Library Manager is a Python-based command-line application that allows users to manage their personal book collection efficiently. It provides features to add, remove, search, and list books using an SQLite database for data persistence.
+
+Features
+
+Add Books: Store book details like title, author, publication year, and genre.
+
+Remove Books: Delete books using their unique ID.
+
+Search Books: Search books by title or author.
+
+List All Books: Display all books in the library.
+
+Database Persistence: Uses SQLite to store book records permanently.
